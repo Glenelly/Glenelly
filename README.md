@@ -5,7 +5,6 @@ Oiii! Sou a Glenelly Karla
 - 📫 Linkedin: Glenelly Karla / Email: glenellykarlatbm@gmail.com
 - 😄 Pronomes: Ela/Dela
 
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/Glenelly">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Glenelly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
