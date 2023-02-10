@@ -1,6 +1,6 @@
 Oiii! Sou a Glenelly Karla
 
-- 🌱 Atualmente estudando CSS, JavaScript, React e Python
+- 🌱 Atualmente estudando Java e Python
 - 👯 Estou buscando emprego e trabalhos voluntários para adquirir experiência
 - 😄 Pronomes: Ela/Dela
 
