@@ -6,8 +6,8 @@ Oiii! Sou a Glenelly Karla
 
 <div align="center">
   <a href="https://github.com/Glenelly">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Glenelly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glenelly&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Glenellyk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glenellyk&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
