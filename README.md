@@ -1,6 +1,6 @@
 Oiii! Sou a Glenelly Karla
 
-- 🌱 Atualmente estudando Java e Python
+- 🌱 Atualmente estudando Java
 - 👯 Estou buscando emprego e trabalhos voluntários para adquirir experiência
 - 😄 Pronomes: Ela/Dela
 
