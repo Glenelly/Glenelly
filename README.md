@@ -1,8 +1,3 @@
-Oiii! Sou a Glenelly Karla
-
-- 🌱 Atualmente estudando Java
--  Estou buscando emprego 
-- 😄 Pronomes: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/Glenelly">
